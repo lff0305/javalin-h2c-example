@@ -49,4 +49,5 @@ Test with `curl` for fallback to http1:
 < Content-Length: 11
 < 
 * Connection #0 to host 1
+Hello World
 ```
